@@ -9,7 +9,7 @@
 [![Twitch Badge](https://img.shields.io/twitch/status/lord_guccif3r_?style=social&link=https://www.twitch.tv/lord_guccif3r_)](https://www.twitch.tv/lord_guccif3r_)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** I'm a **Penetration Tester and Red Teamer 💻 😃** passionate about learning and working with new tech. I love building offensive tools and electronic gadgets for hacking. Gym lover and Content creator <br/><br/>
+I'm a **Penetration Tester and Red Teamer 💻 😃** passionate about learning and working with new tech. I love building offensive tools and electronic gadgets for hacking. Gym lover and Content creator <br/><br/>
 
 ## ⚡️ A Few Quick Facts<img width="400" height="250" src="https://c.tenor.com/K8R7LThju04AAAAC/hack-the-planet.gif" align=right>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on<br>
