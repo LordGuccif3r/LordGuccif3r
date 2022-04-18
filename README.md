@@ -27,7 +27,7 @@ I'm a **Penetration Tester and Red Teamer 💻 😃** passionate about learning 
 Some more stuff 😄
   
 ### 🖥️ My hacker setup
- <img width="400" height="250" src="https://pbs.twimg.com/media/FQoeqGhXIAEmaEy?format=jpg&name=large" align=center>
+ <img width="400" height="250" src="https://pbs.twimg.com/media/FQoeqGhXIAEmaEy?format=jpg&name=large" align=center><img width="400" height="250" src="https://pbs.twimg.com/media/FQof0XyWUAEmV07?format=jpg&name=large" align=center>
 
 ### ⚙️ Some Tool and Tech I use
 
