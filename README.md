@@ -26,15 +26,12 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** I'm a **P
 - ⚡ Fun fact: I love to play CTF like HackTheBox, TryHackMe and spending 2 hours a day at the gym.
 
 
-
-<details>
-  <summary>Some more stuff 😄</summary>
+<sumary> Some more stuff 😄</summary>
   
 ### 🖥️ My hacker setup
 <img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
 
 ### ⚙️ Some Tool and Tech I use
-<details>
 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"></code>
@@ -45,8 +42,6 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** I'm a **P
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"></code>
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg"></code>
-
-</details>
 
 ### 🚀 Quick Stats
 <p align="center">
