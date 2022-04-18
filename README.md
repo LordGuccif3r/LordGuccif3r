@@ -5,7 +5,6 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/LordGuccif3r)](https://github.com/LordGuccif3r)
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FLord_Guccif3r)](https://twitter.com/Lord_Guccif3r)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-perez-54b537204/)](https://www.linkedin.com/in/erick-perez-54b537204/)
-[![Instagram Badge](https://img.shields.io/badge/I-Instagram-red&link=https://www.instagram.com/lord_guccif3r/)](https://www.instagram.com/lord_guccif3r/)
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCC8Xy0XHeHxtGYJnFuM4FKQ?style=social&link=https://www.youtube.com/channel/UCC8Xy0XHeHxtGYJnFuM4FKQ)](https://www.youtube.com/channel/UCC8Xy0XHeHxtGYJnFuM4FKQ)
 [![Twitch Badge](https://img.shields.io/twitch/status/lord_guccif3r_?style=social&link=https://www.twitch.tv/lord_guccif3r_)](https://www.twitch.tv/lord_guccif3r_)
 
@@ -14,7 +13,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** I'm a **P
 
 ## ⚡️ A Few Quick Facts
 
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+<img width="490" height="270" src="http://www.reddit.com/r/HighQualityGifs/comments/3u6xhc/hack_the_planet_first_hqg_post_criticism_welcome/" align=right>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
 - 🌎 Check out my Web blog [Lord Guccif3r Blog!]!
 - ☣️ I’m currently learning Russian and everything related to Hacking 😎.
