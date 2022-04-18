@@ -1,17 +1,12 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/Defcon27">Erick </a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Howdy!, I am <a href="https://github.com/LordGuccif3r">Erick <a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30px"></h1>
 </h1>
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/LordGuccif3r)](https://github.com/LordGuccif3r) 
-
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/LordGuccif3r)](https://github.com/LordGuccif3r)
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FLord_Guccif3r)](https://twitter.com/Lord_Guccif3r)
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-perez-54b537204/)](https://www.linkedin.com/in/erick-perez-54b537204/)
-
 [![Instagram Badge](https://img.shields.io/badge/I-Instagram-red&link=https://www.instagram.com/lord_guccif3r/)](https://www.instagram.com/lord_guccif3r/)
-
 [![Youtube Badge](https://img.shields.io/youtube/channel/subscribers/UCC8Xy0XHeHxtGYJnFuM4FKQ?style=social&link=https://www.youtube.com/channel/UCC8Xy0XHeHxtGYJnFuM4FKQ)](https://www.youtube.com/channel/UCC8Xy0XHeHxtGYJnFuM4FKQ)
-
 [![Twitch Badge](https://img.shields.io/twitch/status/lord_guccif3r_?style=social&link=https://www.twitch.tv/lord_guccif3r_)](https://www.twitch.tv/lord_guccif3r_)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
