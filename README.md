@@ -13,7 +13,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** I'm a **P
 
 ## ⚡️ A Few Quick Facts
 
-<img width="490" height="270" src="https://giphy.com/embed/HAonhTZTaQE24" align=right>
+<img width="490" height="270" src="https://giphy.com/gifs/welcome-planet-criticism-HAonhTZTaQE24" align=right>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
 - 🌎 Check out my Web blog [Lord Guccif3r Blog!]!
 - ☣️ I’m currently learning Russian and everything related to Hacking 😎.
