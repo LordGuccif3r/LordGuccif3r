@@ -13,7 +13,7 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** I'm a **P
 
 ## ⚡️ A Few Quick Facts
 
-<img width="490" height="270" src="https://c.tenor.com/K8R7LThju04AAAAC/hack-the-planet.gif" align=right>
+<img width="400" height="250" src="https://c.tenor.com/K8R7LThju04AAAAC/hack-the-planet.gif" align=right>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
     - 🖼 Computer hacking
     - 🛠 Raspberry Pi Projects
