@@ -15,6 +15,9 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** I'm a **P
 
 <img width="490" height="270" src="https://c.tenor.com/K8R7LThju04AAAAC/hack-the-planet.gif" align=right>
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+    - 🖼 Computer hacking
+    - 🛠 Raspberry Pi Projects
+    - 🤖 AV bypass
 - 🌎 Check out my Web blog [Lord Guccif3r Blog!]!
 - ☣️ I’m currently learning Russian and everything related to Hacking 😎.
 - 🏴‍☠️ I’m looking to collaborate with other Hackers in the community.
