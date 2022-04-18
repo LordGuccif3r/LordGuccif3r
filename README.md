@@ -14,16 +14,16 @@ I'm an **Undergrad Student🎓 [@VIT Vellore](https://www.vit.ac.in)** I'm a **P
 ## ⚡️ A Few Quick Facts
 
 <img width="400" height="250" src="https://c.tenor.com/K8R7LThju04AAAAC/hack-the-planet.gif" align=right>
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-    - 🖼 Computer hacking
-    - 🛠 Raspberry Pi Projects
-    - ☢️ AV and EDR bypass
-- 🌎 Check out my Web blog [Lord Guccif3r Blog!]!
-- ☣️ I’m currently learning Russian and everything related to Hacking 😎
-- 🏴‍☠️ I’m looking to collaborate with other Hackers in the community
-- ✅ 2022 Goals: Create and share offensive tools with other Hackers
-- 🕹 I build electronic gadgets for hacking
-- ⚡ Fun fact: I love to play CTF like HackTheBox, TryHackMe and spending 2 hours a day at the gym
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on<br>
+    - 🖼 Computer hacking<br>
+    - 🛠 Raspberry Pi Projects<br>
+    - ☢️ AV and EDR bypass<br>
+- 🌎 Check out my Web blog [Lord Guccif3r Blog!]!<br>
+- ☣️ I’m currently learning Russian and everything related to Hacking 😎<br>
+- 🏴‍☠️ I’m looking to collaborate with other Hackers in the community<br>
+- ✅ 2022 Goals: Create and share offensive tools with other Hackers<br>
+- 🕹 I build electronic gadgets for hacking<br>
+- ⚡ Fun fact: I love to play CTF like HackTheBox, TryHackMe and spending 2 hours a day at the gym<br>
 
 
 Some more stuff 😄
