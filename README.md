@@ -2,7 +2,7 @@
 </h1>
 
 ### 📬 Find me at
-[![Github Badge](https://img.shields.io/website?logo=offensive-paradise&style=for-the-badge&up_color=red&up_message=www.offensive-paradise.com&url=https%3A%2F%2Fwww.offensive-paradise.com%2F)](https://www.offensive-paradise.com)
+[![Github Badge](https://img.shields.io/website?logo=offensive-paradise&up_color=red&up_message=www.offensive-paradise.com&url=https%3A%2F%2Fwww.offensive-paradise.com%2F)](https://www.offensive-paradise.com)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/LordGuccif3r)](https://github.com/LordGuccif3r)
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FLord_Guccif3r)](https://twitter.com/Lord_Guccif3r)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erick-perez-54b537204/)](https://www.linkedin.com/in/erick-perez-54b537204/)
